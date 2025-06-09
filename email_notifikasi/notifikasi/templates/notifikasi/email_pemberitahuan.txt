@@ -1,0 +1,8 @@
+Halo {{ pengguna.nama }},
+
+Ini adalah pesan otomatis untuk Anda.
+
+{{ pesan }}
+
+Terima kasih,
+Hii Dev
